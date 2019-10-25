@@ -2,7 +2,8 @@
 During 2 months, I managed to work on a short data project on League of Legends since I am a big fan of the game and its use of data.
 
 ## Introduction
-1 An Introduction to Data & Analytics in the Gaming Industry
+
+### An Introduction to Data & Analytics in the Gaming Industry
 Just as it did with traditional sports, the collection, analysis, and use of all kinds of data is starting
 to change the way that competitive games are played and understood. Nowadays, as the E-sports
 became more and more popular, data analyses on E-sports games are also become much more
@@ -16,7 +17,9 @@ easily make queries and pull information from their servers. Another great selli
 fact that League of Legends is one of the most popular modern day E-sports, meaning its balance
 updates affect people’s lives on a professional level.
 
-## Related Work
+<img src="https://media.bizj.us/view/img/10298492/3068725821-5*750xx4000-2255-0-411.jpg" />
+
+### Related Work
 As League of Legends is a popular game, there are already a couple of applications that exist in
 the data analysis sphere. Websites like League of Graphs and MetaSrc collect basic stats and
 information from the League of Legends API and use it to construct simple analyses like what
