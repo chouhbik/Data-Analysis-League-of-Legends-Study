@@ -26,3 +26,17 @@ information from the League of Legends API and use it to construct simple analys
 the most popular champion and what the win rate of two champions when played together are.
 What these existing applications do not currently do is prediction of a currently ongoing game
 with all of the features of that game in mind, and that is the hole that our project is attempting to fill.
+
+## Game Overview :
+League of Legends is a Multiplayer Online Battleground Arena (MOBA) style game developed
+by Riot Games. Each game consists of two teams with 5 players each. Each team starts the game
+at opposite sides of the arena in a base that contains their Nexus. The goal of each game is to
+overcome obstacles such as minions, structures and enemy players in order to destroy the enemy
+Nexus. Each team generally consists of 5 standard positions divided across the map: Top, Middle,
+Jungle, Attack Damage Carry(ADC)/Marksman and Support.
+Each player in a match, usually lasting between twenty minutes and an hour, controls a unique
+champion chosen from a pool of more than a hundred with differing characteristics and abilities.
+The game boasts 100 million monthly players and a flourishing competitive scene with millions
+in tournament prize pools as well as online viewers.
+
+<img src="https://miro.medium.com/max/5342/1*q_pQhdwlp5K3ROuG_hY3Yg.jpeg" />
