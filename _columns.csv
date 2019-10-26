@@ -1,0 +1,108 @@
+ColumnName,ColumnDescription
+Address," website address the data is scraped from 
+"
+League," League or Tournament the match took place in 
+"
+Year," Year the match took place in 
+"
+Season,"Spring or Summer depending on which half of the year the match took place in
+"
+Type,"Season, Playoffs, Regional, or International match "
+blueTeamTag," Blue Team's tag name (ex. Team SoloMid is TSM) 
+"
+bResult," Result of the match for Blue Team - 1 is a win, 0 is a loss 
+"
+rResult," Result of the match for Red Team - 1 is a win, 0 is a loss 
+"
+redTeamTag," Red Team's Tag Name (ex. Team SoloMid is TSM) 
+"
+gamelength," Game length in minutes 
+"
+golddiff," Gold difference - computed Blue minus Red - by minute 
+"
+goldblue," Blue Team's total gold value by minute 
+"
+bKills," List of Blue Team's kills - [Time in minutes, Victim, Killer, Assist1, Assist2, Assist3, Assist4, x_pos, y_pos] 
+"
+bTowers, List of minutes that Blue Team destroyed a tower and Tower Location 
+bInhibs," List of minutes that Blue Team destroyed an inhibitor and Location 
+"
+bDragons, List of minutes that Blue Team killed a dragon Dragon Type
+bBarons," List of minutes that Blue Team killed a baron nashor 
+"
+bHeralds," List of minutes that Blue Team killed a rift herald 
+"
+goldred," Red Team's total gold value by minute 
+"
+rKills," List of Red Team's kills - [Time in minutes, Victim, Killer, Assist1, Assist2, Assist3, Assist4, x_pos, y_pos] 
+"
+rTowers, List of minutes that Red Team destroyed a tower and Tower Location
+rInhibs, List of minutes that Red Team destroyed an inhibitor and Location
+rDragons, List of minutes that Red Team killed a dragon and Dragon Type
+rBarons," List of minutes that Red Team killed a baron nashor 
+"
+rHeralds," List of minutes that Red Team killed a rift herald 
+"
+blueTop," Name of Blue Team's player in the top position 
+"
+blueTopChamp," Name of Blue Team's champion in the top position
+"
+goldblueTop," Blue's Top position player's gold value by minute 
+"
+blueJungle," Name of Blue Team's player in the jungle position 
+"
+blueJungleChamp," Name of Blue Team's champion in the jungle position 
+"
+goldblueJungle," Blue's Jungle position player's gold value by minute 
+"
+blueMiddle," Name of Blue Team's player in the middle position 
+"
+blueMiddleChamp," Name of Blue Team's champion in the middle position 
+"
+goldblueMiddle," Blue's Middle position player's gold value by minute 
+"
+blueADC," Name of Blue Team's player in the ADC position 
+"
+blueADCChamp," Name of Blue Team's champion in the ADC position 
+"
+goldblueADC," Blue's ADC position player's gold value by minute 
+"
+blueSupport," Name of Blue Team's player in the support position 
+"
+blueSupportChamp," Name of Blue's champion in the support position 
+"
+goldblueSupport," Blue's Support player's gold value by minute 
+"
+blueBans," List of champions Blue Team banned (in order) 
+"
+redTop," Name of Red Team's player in the top position 
+"
+redTopChamp," Name of Red Team's champion in the top position 
+"
+goldredTop," Red's Top position player's gold value by minute 
+"
+redJungle," Name of Red Team's player in the jungle position 
+"
+redJungleChamp," Name of Red Team's champion in the jungle position
+"
+goldredJungle," Red's Jungle position player's gold value by minute 
+"
+redMiddle," Name of Red Team's player in the middle position 
+"
+redMiddleChamp," Name of Red Team's champion in the middle position 
+"
+goldredMiddle," Red's Middle position player's gold value by minute 
+"
+redADC," Name of Red Team's player in the ADC position 
+"
+redADCChamp," Name of Red Team's champion in the ADC position 
+"
+goldredADC," Red's ADC position player's gold value by minute 
+"
+redSupportChamp," Name of Red Team's player in the support position 
+"
+redSupport," Name of Red Team's champion in the support position 
+"
+goldredSupport," Red's Support position player's gold value by minute 
+"
+redBans, List of champions Red Team banned (in order)
